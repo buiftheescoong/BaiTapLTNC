@@ -1,0 +1,5 @@
+1) B 0x5678
+A 0x1234
+B 0x1234
+2) *p = 5
+3) kiểu con trỏ ko đúng với địa chỉ biế
